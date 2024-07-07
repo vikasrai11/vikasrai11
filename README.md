@@ -47,6 +47,7 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=vikasrai11&layout=compact&langs_count=4&theme=algolia"/>
   </a>
 </p>
+<!--
 <p align="center">
   <a href="https://github.com/vikasrai11">
     <img src="https://github-stats-alpha.vercel.app/api?username=vikasrai11&cc=333333&tc=ffffff&ic=4B8BDA" alt="Stats"/>
@@ -58,7 +59,7 @@
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app?username=vikasrai11&theme=tokyonight" alt="GitHub Trophies"/>
 </p>
-
+-->
 <!--
 **vikasrai11/vikasrai11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
