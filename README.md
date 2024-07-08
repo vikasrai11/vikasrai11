@@ -7,6 +7,8 @@
 - 🌱 I’m currently learning Blockchain Security
 - 💬 Ask me about Ethical Hacking, Web Security, Python
 
+<img align="right" alt="hacker" width="400" src="https://github.com/vikasrai11/vikasrai11/blob/main/hackergif.gif">
+
 ### 📌 Tech Stack
 #### Programming Language
 ![C](https://skillicons.dev/icons?i=c)
