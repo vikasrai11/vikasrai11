@@ -3,10 +3,11 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=ffffff&size=24&width=500&lines=🛡️Ethical_Hacker🌐;🐞Bug-Hunter🪲;🔐Web-Pentester🔒;🚀Python-Programmer🚀)
 
 ![redhat](https://skillicons.dev/icons?i=redhat) <h1>I am a Hacker and Programmer.</h1> 
- **🔗** [Visit My Portfolio](https://vikasrai.vercel.app)
+ 
 - 🔭 Passionate about Cybersecurity
 - 🌱 I’m currently learning Blockchain Security
 - 💬 Ask me about Ethical Hacking, Web Security, Python
+- 🌐 **Check out my portfolio:** [My Portfolio Website](https://vikasrai.vercel.app)
 
 <img align="right" alt="hacker" width="400" src="https://github.com/WildCarter26/WildCarter26/blob/main/gif.gif">
 
